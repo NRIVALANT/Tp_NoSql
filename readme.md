@@ -29,6 +29,4 @@ Créer un fichier .env ou vous mettrez vos informations d'environnements et inst
 - [Mongoose](https://www.npmjs.com/package/mongoose) : ODM (Object Data Modeling) pour MongoDB.
 - [dotenv](https://www.npmjs.com/package/dotenv) : Charge les variables d'environnement à partir d'un fichier `.env`.
 
-## Contributeurs
-- [Nicolas Rivalant](https://github.com/NRIVALANT)
 
